@@ -18,15 +18,15 @@
   },
   "homepage": "https://github.com/speedy-net/speedy-net#readme",
   "dependencies": {
-    "bootstrap": "^4.0.0",
-    "gulp": "^3.9.1",
-    "gulp-cli": "^2.2.0",
+    "bootstrap": "^5.0.0",
+    "gulp": "^5.0.0",
+    "gulp-cli": "^3.0.0",
     "gulp-rename": "^1.4.0",
-    "gulp-rtlcss": "^1.4.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-rtlcss": "^2.0.0",
+    "gulp-sass": "^5.1.0",
     "jquery": "^3.5.1",
     "natives": "^1.1.6",
-    "node-sass": "^4.12.0",
+    "node-sass": "^9.0.0",
     "popper.js": "^1.16.1"
   }
 }
